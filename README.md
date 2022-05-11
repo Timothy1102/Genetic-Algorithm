@@ -15,3 +15,10 @@ Instruction
 
 - Install PyGAD: `pip install pygad`
 - The main file is ./main.py, run it to get insights on the population and the best solution found.
+
+Results
+===============
+
+`python main.py`
+![alt text](./img/main.png)
+![alt text](./img/plot.png)
