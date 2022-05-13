@@ -44,8 +44,8 @@ targets_list = init_targets()
 sensors_list = init_sensors_potential_positions()
 
 # print out the information
-print("TARGETS LIST: ")
-print_targets(targets_list)
+# print("TARGETS LIST: ")
+# print_targets(targets_list)
 
-print("SENSORS LIST: ")
-print_sensors_potential_positions(sensors_list)
+# print("SENSORS LIST: ")
+# print_sensors_potential_positions(sensors_list)
